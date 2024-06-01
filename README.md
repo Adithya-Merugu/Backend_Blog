@@ -20,7 +20,6 @@ npm install
 3. Set up MongoDB:
 - Create a MongoDB database and configure the connection string in a `.env` file.
 4. Run the server:npm start
-   ## Contact
 5. Use Postman to test API endpoints:
 - Import the Postman collection provided in the `postman_collection.json` file.
 - Test endpoints for creating, updating, deleting blog posts, managing comments, and user authentication.
@@ -44,4 +43,5 @@ npm install
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a Pull Request.
+## Contact
 For any questions or feedback, please contact us at [merugu.adithya.29@gmail.com](mailto:merugu.adithya.29@gmail.com).
