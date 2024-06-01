@@ -44,4 +44,4 @@ npm install
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a Pull Request.
-For any questions or feedback, please contact us at [email@example.com](mailto:merugu.adithya.29@gmail.com).
+For any questions or feedback, please contact us at [merugu.adithya.29@gmail.com](mailto:merugu.adithya.29@gmail.com).
